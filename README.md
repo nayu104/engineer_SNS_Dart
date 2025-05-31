@@ -1,4 +1,4 @@
-# Engineer SNS App
+# Engineer SNS 
 
 Flutter製のエンジニア向けSNSアプリです。GitHubアカウントによるログイン、投稿、DM、プロフィール管理、フォロー機能などを備えたアプリです。
 
