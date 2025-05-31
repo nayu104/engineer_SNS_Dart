@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class FormatTextField extends StatelessWidget {//TODOクラス名が妥当にリネームする
+class FormatTextField extends StatelessWidget {
   final double? Width;
   final double? Height;
   final TextInputType?  keyboardType;
