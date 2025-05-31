@@ -16,7 +16,7 @@ class Notice extends StatefulWidget {
   });
 
   @override
-  State<Notice> createState() => _NoticeState(); // ← Stateクラス名と対応させる
+  State<Notice> createState() => _NoticeState();
 }
 
 class _NoticeState extends State<Notice> {
